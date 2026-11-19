@@ -1,3 +1,5 @@
+> **Legacy baseline:** this repository's `ten` branch pins Android 10.0.0_r40 / Havoc-OS-era sources. It is a historical Android 10 manifest, not a current Android 16 build baseline and not an S20 FE ROM manifest. Modernization requires a separate branch with compatible device, vendor and kernel projects.
+
 Havoc-OS
 ===========
 
@@ -25,7 +27,7 @@ Install the Repository
 
 Enter the following to download the "repo" binary and make it executable:
 
-curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo && chmod a+x ~/bin/repo
+curl https://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo && chmod a+x ~/bin/repo
 
 You may need to reboot for these changes to take effect.
 Now enter the following to initialize the repository:
