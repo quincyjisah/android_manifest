@@ -1,3 +1,13 @@
+<div align="center"><img src="assets/project-cover.svg" alt="Android Manifest project cover" width="100%"></div>
+
+# Android Manifest — Legacy Havoc-OS Source Baseline
+
+**Purpose:** Historical Android source manifest for initialising and syncing the Havoc-OS-era Android 10 tree.
+**Built for:** Android ROM maintainers and build engineers reproducing or researching the legacy source baseline.
+**Stage:** Historical reference only. The ten branch pins Android 10.0.0_r40-era sources; it is not an Android 16 baseline or an S20 FE manifest.
+
+---
+
 > **Legacy baseline:** this repository's `ten` branch pins Android 10.0.0_r40 / Havoc-OS-era sources. It is a historical Android 10 manifest, not a current Android 16 build baseline and not an S20 FE ROM manifest. Modernization requires a separate branch with compatible device, vendor and kernel projects.
 
 Havoc-OS
